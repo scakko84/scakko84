@@ -4,26 +4,23 @@ struct Profile: Identifiable {
   let id = "@scakko84"
   
   let interests = [
-    "iOS",
-    "iPadOS",
-    "watchOS",
+    "Mountain biking",
+    "Hiking",
+    "Cross-country skiing",
     "Skateboarding",
     "Open source"
   ]
   
   let workingOn = [
-    "SwiftUI", 
-    "Combine",
-    "HealthKit",
-    "Vision",
-    "CoreML",
-    "Hyperledger Fabric",
-    "Machine Learning",
-    "DevOps",
-    "Proximity"
-    "IoT",
-    "Blockchain",
-    "Docker"
+    "NodeJS",
+    "Angular",
+    "Kubernetes",
+    "Docker",
+    "Hardware",
+    "Firmware",
+    ".NET",
+    "ML",
+    "AI"
   ]
   
   let contacts = [
